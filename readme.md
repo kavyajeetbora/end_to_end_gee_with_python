@@ -2,7 +2,7 @@
 
 
 <img src="https://i0.wp.com/spatialthoughts.com/wp-content/uploads/2021/06/Spatial-Thoughts-FINAL-1.png?w=400&ssl=1" height="200" style="display: block; margin: 0 auto;"/>
-This repository is a python implementation of the course: End to End Google Earth Engine by Spatial Thougths (Ujaval Gandhi). This course is in javascript, I have written the whole course in python and all codes can be run in google colab notebook. 
+This repository is a python implementation of the course: End to End Google Earth Engine by Spatial Thougths (Ujaval Gandhi). Originally the course was in javascript, I have written the whole code of the course in python and all codes can be run on a google colab notebook. Link to the notebooks are linked below
 
 ## Course Index
 
