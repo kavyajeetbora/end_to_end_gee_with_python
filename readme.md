@@ -8,6 +8,7 @@ This repository is a python implementation of the course: End to End Google Eart
 
 1. [Module 1: Earth Engine Basics](https://github.com/kavyajeetbora/geemap/blob/master/end_to_end_earth_engine/Module_01_Earth_Engine_Basics.ipynb)
 2. [Module 2: Earth Engine Intermediate](https://github.com/kavyajeetbora/geemap/blob/master/end_to_end_earth_engine/Module_02_Earth_Engine_Intermediate.ipynb)
+3. [Module 3: Supervised Classification using google earth engine](https://github.com/kavyajeetbora/end_to_end_gee_with_python/blob/master/end_to_end_earth_engine/Module_03_Supervised_Classification.ipynb)
 
 ## References
 
