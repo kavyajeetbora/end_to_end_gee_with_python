@@ -15,3 +15,8 @@ This repository is a python implementation of the course: End to End Google Eart
 1. [End-to-End Google Earth Engine (Full Course Material)](https://courses.spatialthoughts.com/end-to-end-gee.html)
 2. [Google earth engine api guides](https://developers.google.com/earth-engine/guides)
 3. [geemap - A Python package for interactive geospatial analysis and visualization with Google Earth Engine](https://geemap.org/)
+
+## Future Studies
+
+1. Estimating the ground water using satellite data: Groundwater data is very useful health index for an urban area. There have been various studies on this. Some of the related articles are
+   - [Remote Sensing of Groundwater: Current Capabilities and Future Directions](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022WR032219)
