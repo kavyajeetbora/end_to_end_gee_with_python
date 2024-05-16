@@ -11,6 +11,10 @@ This repository is a python implementation of the course: End to End Google Eart
 3. [Module 3: Supervised Classification using google earth engine](https://github.com/kavyajeetbora/end_to_end_gee_with_python/blob/master/end_to_end_earth_engine/Module_03_Supervised_Classification.ipynb)
 4. [Module 4: Change Detection using google earth engine](https://github.com/kavyajeetbora/end_to_end_gee_with_python/blob/master/end_to_end_earth_engine/Module_04_change_detection.ipynb)
 
+## TODO
+1. Course work on water resource management: [Google Earth Engine for Water Resources Management](https://courses.spatialthoughts.com/gee-water-resources-management.html)
+2. [Mastering GDAL tools - Video](https://youtu.be/72WVyc8Jtz4?si=q41rz3yiQY6wWvAi) | [Mastering GDAL tools - webpage](https://courses.spatialthoughts.com/gdal-tools.html)
+
 ## References
 
 1. [End-to-End Google Earth Engine (Full Course Material)](https://courses.spatialthoughts.com/end-to-end-gee.html)
