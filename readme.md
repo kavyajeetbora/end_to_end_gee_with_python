@@ -14,6 +14,7 @@ This repository is a python implementation of the course: End to End Google Eart
 ## TODO
 1. Course work on water resource management: [Google Earth Engine for Water Resources Management](https://courses.spatialthoughts.com/gee-water-resources-management.html)
 2. [Mastering GDAL tools - Video](https://youtu.be/72WVyc8Jtz4?si=q41rz3yiQY6wWvAi) | [Mastering GDAL tools - webpage](https://courses.spatialthoughts.com/gdal-tools.html)
+3. [Learn xarray in 45 minutes](https://tutorial.xarray.dev/overview/xarray-in-45-min.html)
 
 ## References
 
