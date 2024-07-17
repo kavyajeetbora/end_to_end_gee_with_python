@@ -13,6 +13,7 @@ This repository is a python implementation of the course: End to End Google Eart
 
 ## Google earth engine for water reource management
 1. [Module 2: Surface Water Mapping](https://github.com/kavyajeetbora/end_to_end_gee_with_python/blob/master/water_resource_management/module_02_surface_water_mapping.ipynb)
+2. [From Satellites to Solutions: Drought Monitoring with Google Earth Engine (SatMOC 2024)](https://geemap.org/workshops/SatMOC_2024/#exploring-drought-datasets)
 
 ## TODO
 1. Course work on water resource management: [Google Earth Engine for Water Resources Management](https://courses.spatialthoughts.com/gee-water-resources-management.html)
